@@ -9,7 +9,7 @@ namespace PalindromeNumber
     internal class Program
     {
         static void Main(string[] args)
-        {
+        { 
             int x = 1000021;
 
             string x2 = x.ToString();
