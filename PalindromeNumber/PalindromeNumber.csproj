@@ -4,13 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{94DDFFB9-7C53-4C58-8157-66604151B33E}</ProjectGuid>
+    <ProjectGuid>{4D928965-6B3D-4184-B50E-E165596B25B2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Problem01</RootNamespace>
-    <AssemblyName>Problem01</AssemblyName>
+    <RootNamespace>PalindromeNumber</RootNamespace>
+    <AssemblyName>EX02-PalindromeNumber</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
